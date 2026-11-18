@@ -1,0 +1,29 @@
+Procfile.dev
+  s_379bf6314ff9a8::t_8386b125df51ea 1
+Gemfile.lock
+  ai_agent 223-227,511
+bin/dev
+  s_379bf6314ff9a8::t_8386b125df51ea 1-10
+.gitignore
+  s_379bf6314ff9a8::t_8386b125df51ea 87
+config/environments/staging.rb
+  s_379bf6314ff9a8::t_8386b125df51ea 7
+Gemfile
+  s_379bf6314ff9a8::t_8386b125df51ea 82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "115e2320bda708c56bf3b21b31d68dc33ce13c3a",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
