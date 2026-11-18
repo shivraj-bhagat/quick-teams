@@ -1,0 +1,25 @@
+Procfile
+  s_379bf6314ff9a8::t_314084790eea1f 2
+bin/render-build.sh
+  s_379bf6314ff9a8::t_314084790eea1f 6-10
+config/environments/staging.rb
+  s_379bf6314ff9a8::t_314084790eea1f 58
+config/cable.yml
+  s_379bf6314ff9a8::t_314084790eea1f 11,18-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "62efc76be845bbb0b1085d37111b976c9efbbbd7",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
