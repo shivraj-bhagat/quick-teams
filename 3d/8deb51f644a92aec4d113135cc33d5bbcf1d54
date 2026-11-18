@@ -1,0 +1,24 @@
+config/queue.yml
+  s_379bf6314ff9a8::t_68f3a1eb2565af 17-19
+test/config/recurring_schedule_test.rb
+  s_379bf6314ff9a8::t_aea7c664a0e7ca 1,3-23
+  s_379bf6314ff9a8::t_ceb64b55d4c5b0 2
+config/recurring.yml
+  s_379bf6314ff9a8::t_68f3a1eb2565af 1-2,22-24,27-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "3d8deb51f644a92aec4d113135cc33d5bbcf1d54",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
