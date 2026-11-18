@@ -1,0 +1,21 @@
+README.md
+  s_379bf6314ff9a8::t_65542d8d1d9cc8 1,3,5,7-13,15-16,18,20-25,27,29-32,34
+config/initializers/stimulus_reflex.rb
+  s_379bf6314ff9a8::t_d099df37de12a8 13-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "6c07691b3a84c69ed1c87596095cf6ae006680dd",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
