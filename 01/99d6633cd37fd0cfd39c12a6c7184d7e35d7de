@@ -1,0 +1,34 @@
+script/ui_audit/capture.rb
+  s_3c93c3abf9a66d::t_8b51a7a9e4e513 1-144,147-372
+  s_3c93c3abf9a66d::t_51bd5acab0afae 145-146
+script/ui_audit/report.rb
+  s_3c93c3abf9a66d::t_1dada7ac961480 1-99
+script/ui_audit/seed.rb
+  s_3c93c3abf9a66d::t_5d4f2507b355a5 1-31
+script/ui_audit/config.rb
+  s_3c93c3abf9a66d::t_7a41d39feb67f5 51
+  s_3c93c3abf9a66d::t_834669a5d7698d 1-50,52-72
+script/ui_audit/compress.py
+  s_3c93c3abf9a66d::t_7a41d39feb67f5 1-3,5-26
+  s_3c93c3abf9a66d::t_b2ab1fabd1523f 4
+script/ui_audit/compare.html.erb
+  s_3c93c3abf9a66d::t_24ac2a921c35b8 1-96
+docs/ui-audit/system-tests-before.txt
+  s_3c93c3abf9a66d::t_51bd5acab0afae 1-855
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "0199d6633cd37fd0cfd39c12a6c7184d7e35d7de",
+  "prompts": {},
+  "sessions": {
+    "s_3c93c3abf9a66d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc0e2dd5-395f-42a5-9e93-c80daec7658d",
+        "model": "unknown"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
