@@ -1,0 +1,23 @@
+app/views/shared/_assessment.html.erb
+  s_379bf6314ff9a8::t_10527f260b1c58 28
+app/views/shared/_comment.html.erb
+  s_379bf6314ff9a8::t_10527f260b1c58 6
+app/views/shared/_modal.html.erb
+  s_379bf6314ff9a8::t_10527f260b1c58 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "953650b005825078d03b483657b377a948b3485e",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
