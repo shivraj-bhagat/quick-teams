@@ -1,0 +1,36 @@
+test/controllers/purchase/billings_controller_test.rb
+  s_379bf6314ff9a8::t_29a59b0b55455e 1-22
+app/interactors/sign_up.rb
+  s_379bf6314ff9a8::t_10ae2ec16899b9 7-8,11,13-14,107-110
+db/migrate/20261118173600_add_pay_v7_columns.rb
+  s_379bf6314ff9a8::t_176d46f39ff933 1-10
+test/test_helper.rb
+  s_379bf6314ff9a8::t_10ae2ec16899b9 4
+db/migrate/20261118173602_add_object_to_pay_models.pay.rb
+  s_379bf6314ff9a8::t_176d46f39ff933 1-8
+test/fixtures/pay/subscriptions.yml
+  s_379bf6314ff9a8::t_12d56eb3fddaa2 2-3
+test/interactors/sign_up_test.rb
+  s_379bf6314ff9a8::t_d213dbef5efe06 5-6
+  s_379bf6314ff9a8::t_a64d596b281267 1-4,7-43
+db/migrate/20261118173601_add_pay_sti_columns.pay.rb
+  s_379bf6314ff9a8::t_176d46f39ff933 1-30
+test/fixtures/pay/customers.yml
+  s_379bf6314ff9a8::t_12d56eb3fddaa2 4-5,12-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "d47b34d7ccb8f6e90c46ef0cf7eead544da8e0a2",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
