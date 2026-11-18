@@ -1,0 +1,46 @@
+docker/postgres/init/01-create-databases.sql
+  s_da2d927624a5b5::t_efc83c3c53f3e0 1-3
+app/javascript/config/index.js
+  s_da2d927624a5b5::t_4ec425be2cc75e 1-2
+app/javascript/controllers/index.js
+  s_da2d927624a5b5::t_4ec425be2cc75e 4,6,9,12,15,18,21,24,27,30,33,36,39
+config/database.yml
+  s_da2d927624a5b5::t_3cbf8a54b15c15 1-4,11-15,18,21-22
+  s_da2d927624a5b5::t_eaf61dd07fb136 5-10,16-17,19-20,23-42
+config/importmap.rb
+  s_da2d927624a5b5::t_d8bf56f24823d0 29
+  s_da2d927624a5b5::t_4ec425be2cc75e 4,24
+docker-compose.yml
+  s_da2d927624a5b5::t_ad8c06a7fc7d64 3-21
+  s_da2d927624a5b5::t_02ff04dd2a97fb 1-2
+app/javascript/config/stimulus_reflex.js
+  s_da2d927624a5b5::t_4ec425be2cc75e 1-2
+docs/upgrade-plan.md
+  s_da2d927624a5b5::t_1e91e6e4b44869 43-47
+  s_da2d927624a5b5::t_69744771859c78 23-27
+  s_da2d927624a5b5::t_d31aa463132857 1-22,28-42,48-280
+app/javascript/config/cable_ready.js
+  s_da2d927624a5b5::t_4ec425be2cc75e 1
+docker/postgres/Dockerfile
+  s_da2d927624a5b5::t_acc1aa76969d58 1-8
+app/javascript/controllers/application.js
+  s_da2d927624a5b5::t_4ec425be2cc75e 2
+app/javascript/application.js
+  s_da2d927624a5b5::t_4ec425be2cc75e 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "b3b10d53f1fc26d6a7424384b8c8c6d7924b35c8",
+  "prompts": {},
+  "sessions": {
+    "s_da2d927624a5b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8244bf8a-0a54-4b67-a215-1f86a83bfe2a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
