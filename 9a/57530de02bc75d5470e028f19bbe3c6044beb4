@@ -1,0 +1,81 @@
+test/system/permissions/employee/attempts_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/timesheets_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/surveys_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/kpis_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/about_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/timeline_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/skills_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/general/comments_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/skills_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/team_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/clients_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/documents_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/notes_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/attempts_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/surveys_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/about_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/todos_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/timeline_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/schedules_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/risks_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/documents_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/feedbacks_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/feedbacks_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/schedules_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/reports_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/goals_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/milestones_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/todos_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/performance_reports_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/timesheets_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/employee/spaces_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+test/system/permissions/project/reports_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "9a57530de02bc75d5470e028f19bbe3c6044beb4",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
