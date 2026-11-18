@@ -1,0 +1,22 @@
+docs/ui-audit/design-system.md
+  s_3c93c3abf9a66d::t_edddee9065c84e 1-96
+app/assets/tailwind/application.css
+  s_3c93c3abf9a66d::t_7ca42e0fdd2ae5 164-166,169-170,173-174
+  s_3c93c3abf9a66d::t_ad3d5d6bedc465 7-18,21-22,24-35,37-47,49-79,81-86,89-113,116-122,124-129,131-138,140-142,144-149,151-153,156-161,177-182,184-186,188-190,192-390,392-394,397-405
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5a85c214e5f48f02bb8cb7f753c706d6e0f4516e",
+  "prompts": {},
+  "sessions": {
+    "s_3c93c3abf9a66d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc0e2dd5-395f-42a5-9e93-c80daec7658d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
