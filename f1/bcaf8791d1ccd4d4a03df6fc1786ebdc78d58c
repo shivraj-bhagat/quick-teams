@@ -1,0 +1,36 @@
+config/puma.rb
+  s_379bf6314ff9a8::t_57528857860632 13,17
+  s_379bf6314ff9a8::t_1e676c36fbb293 11-12,14-16,18
+db/migrate/20230930133220_remove_not_null_on_active_storage_blobs_checksum.active_storage.rb
+  s_379bf6314ff9a8::t_57528857860632 1-8
+config/routes.rb
+  s_379bf6314ff9a8::t_57528857860632 8,10-11
+  s_379bf6314ff9a8::t_1e676c36fbb293 9
+config/environments/development.rb
+  s_379bf6314ff9a8::t_57528857860632 39-41,81-83
+config/environments/production.rb
+  s_379bf6314ff9a8::t_57528857860632 25,43-46,48,50-53,58-62,124-126
+  s_379bf6314ff9a8::t_1e676c36fbb293 127-131
+db/migrate/20230930133219_create_active_storage_variant_records.active_storage.rb
+  s_379bf6314ff9a8::t_57528857860632 1-27
+db/migrate/20230930133218_add_service_name_to_active_storage_blobs.active_storage.rb
+  s_379bf6314ff9a8::t_57528857860632 1-22
+.github/workflows/rubyonrails.yml
+  s_379bf6314ff9a8::t_57528857860632 10,30,33,41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "f1bcaf8791d1ccd4d4a03df6fc1786ebdc78d58c",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
