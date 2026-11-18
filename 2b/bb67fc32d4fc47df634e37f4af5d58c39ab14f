@@ -1,0 +1,34 @@
+test/system/employee/skills_test.rb
+  ai_agent 35
+  s_379bf6314ff9a8::t_0622dd300ecdb0 37
+test/application_system_test_case.rb
+  s_379bf6314ff9a8::t_0622dd300ecdb0 5-8,11,16
+  s_379bf6314ff9a8::t_6f2e515527e0ee 9-10,12-15
+test/system/general/projects_test.rb
+  s_379bf6314ff9a8::t_009db2558977a6 187,189
+test/system/project/about_test.rb
+  s_379bf6314ff9a8::t_e3c4259f511fdc 53
+  s_379bf6314ff9a8::t_b57524154bacb5 58-59
+  s_379bf6314ff9a8::t_22336d54976c47 56
+test/system/project/skills_test.rb
+  ai_agent 36
+  s_379bf6314ff9a8::t_ffb28fad31a9a0 34
+test/system/general/employees_test.rb
+  s_379bf6314ff9a8::t_009db2558977a6 203,205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "2bbb67fc32d4fc47df634e37f4af5d58c39ab14f",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
