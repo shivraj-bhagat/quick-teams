@@ -1,0 +1,95 @@
+app/controllers/employee/todos_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 9
+app/controllers/report/employees_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/employee/surveys_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/project/notes_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/survey/questions_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 7
+app/controllers/spaces_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 32
+app/controllers/employee/feedbacks_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/employees_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 10,75
+app/controllers/report/risks_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 6
+app/controllers/report/roles_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 7
+app/controllers/report/schedules_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 56,85
+app/controllers/schedules_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 20
+app/controllers/employee/goals_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/project/milestones_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/tickets_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8,33,41
+app/controllers/surveys_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 7
+app/controllers/employee/timeline_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 11
+app/controllers/employee/documents_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/project/surveys_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 6
+app/controllers/project/documents_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/project/todos_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 9
+app/controllers/report/todos_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 6,14,22,30,38
+app/controllers/project/risks_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/report/goals_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8,20
+app/controllers/project/timeline_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 5
+app/controllers/templates_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/report/projects_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 5
+app/controllers/report/observers_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 5
+app/controllers/project/reports_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 6
+app/controllers/report/timesheets_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/report/reports_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 6
+app/controllers/report/kpis_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 6
+app/controllers/project/feedbacks_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/survey/assignees_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 9
+app/controllers/employee/timesheets_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 10
+app/controllers/employee/reports_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 8
+app/controllers/survey/attempts_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 11
+app/controllers/project/timesheets_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 9
+app/controllers/projects_controller.rb
+  s_379bf6314ff9a8::t_32d48532518a25 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "c266059bf3e85d83a890704dbb70f7fcc589f0a9",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
