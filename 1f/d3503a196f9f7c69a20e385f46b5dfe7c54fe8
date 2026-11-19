@@ -1,0 +1,26 @@
+config/initializers/devise.rb
+  s_379bf6314ff9a8::t_9017f5dbc58bf7 19-23,310
+Gemfile
+  s_379bf6314ff9a8::t_069da15f2f4609 62-64
+test/test_helper.rb
+  s_379bf6314ff9a8::t_86c8bc850dc807 15-17
+test/forms/pwned_password_test.rb
+  s_379bf6314ff9a8::t_86c8bc850dc807 1-31,33-38
+  s_379bf6314ff9a8::t_f2acfde6d98578 32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "1fd3503a196f9f7c69a20e385f46b5dfe7c54fe8",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
