@@ -1,0 +1,63 @@
+app/views/account/ticket_labels/edit.html.erb
+  s_3c93c3abf9a66d::t_d96d50564f0ed7 9
+app/views/project/_title.html.erb
+  s_3c93c3abf9a66d::t_a050b0e3209a70 38
+app/views/reports/index.html.erb
+  s_3c93c3abf9a66d::t_d5f31056358a11 7,119
+  s_3c93c3abf9a66d::t_7cd20bd9c562e4 4
+app/views/account/roles/_role.html.erb
+  s_3c93c3abf9a66d::t_d96d50564f0ed7 3
+app/views/account/people_tags/_form.html.erb
+  s_3c93c3abf9a66d::t_7cd20bd9c562e4 6
+app/views/account/ticket_statuses/_form.html.erb
+  s_3c93c3abf9a66d::t_7cd20bd9c562e4 6
+app/views/shared/comments/_report.html.erb
+  s_3c93c3abf9a66d::t_d5f31056358a11 16
+app/views/account/clients/_client.html.erb
+  s_3c93c3abf9a66d::t_d96d50564f0ed7 4
+app/views/account/skills/_skill.html.erb
+  s_3c93c3abf9a66d::t_d96d50564f0ed7 3
+app/views/account/tags/_tag.html.erb
+  s_3c93c3abf9a66d::t_d96d50564f0ed7 3
+app/views/comments/edit.html.erb
+  s_3c93c3abf9a66d::t_d5f31056358a11 17
+app/views/shared/comments/_add.html.erb
+  s_3c93c3abf9a66d::t_a050b0e3209a70 16
+app/views/account/project_statuses/_form.html.erb
+  s_3c93c3abf9a66d::t_7cd20bd9c562e4 6
+app/views/account/question_categories/_question_category.html.erb
+  s_3c93c3abf9a66d::t_d96d50564f0ed7 3
+app/views/employee/schedules/edit.html.erb
+  s_3c93c3abf9a66d::t_d96d50564f0ed7 9
+app/views/account/project_tags/_form.html.erb
+  s_3c93c3abf9a66d::t_7cd20bd9c562e4 13
+app/views/employee/_title.html.erb
+  s_3c93c3abf9a66d::t_a050b0e3209a70 41
+app/views/shared/comments/_ticket.html.erb
+  s_3c93c3abf9a66d::t_a050b0e3209a70 15
+  s_3c93c3abf9a66d::t_d5f31056358a11 16
+app/views/schedules/_form.html.erb
+  s_3c93c3abf9a66d::t_a050b0e3209a70 9
+app/views/account/disciplines/_discipline.html.erb
+  s_3c93c3abf9a66d::t_d96d50564f0ed7 3
+app/views/account/jobs/_job.html.erb
+  s_3c93c3abf9a66d::t_d96d50564f0ed7 3
+app/views/account/people_statuses/_form.html.erb
+  s_3c93c3abf9a66d::t_7cd20bd9c562e4 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "8c00236f63ddec13b8775617b3a0278c117fb882",
+  "prompts": {},
+  "sessions": {
+    "s_3c93c3abf9a66d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc0e2dd5-395f-42a5-9e93-c80daec7658d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
