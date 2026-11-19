@@ -1,0 +1,13 @@
+config/database.yml
+  ai_agent 27-28
+.github/workflows/rubyonrails.yml
+  ai_agent 55-56
+README.md
+  ai_agent 30-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "ca50f0630125b87a77d58324a3b9adb5b5b3fe20",
+  "prompts": {}
+}
