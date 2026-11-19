@@ -1,0 +1,103 @@
+app/interactors/add_timesheet.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_project_feedback.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_employee_feedback.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/deactivate_user.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/destroy_project.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/remove_observer.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/update_message.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/application_service.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1-17
+app/interactors/update_project.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_comment_on_message.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/archive_project.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/unarchive_project.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/update_report.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/create_project.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_comment_on_report.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_project_document.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/update_space.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_employee_report.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/destroy_user.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_message_to_space.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/unarchive_space.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_comment_on_ticket.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/archive_space.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_note.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_space.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/remove_todo.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/activate_user.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_comment_on_goal.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_employee_goal.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_project_risk.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_project_report.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/create_user.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/remove_schedule.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/update_employee.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+test/interactors/application_service_test.rb
+  s_379bf6314ff9a8::t_4ec081735ed9f7 1-33
+app/interactors/destroy_account.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_project_milestone.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_employee_document.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_employee_todo.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_ticket.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/update_schedule.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/add_project_todo.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+app/interactors/sign_up.rb
+  s_379bf6314ff9a8::t_5bb54d235b92c6 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "b48bf0193041b9ee6ce1a4e04c3b57a5f651b1d2",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
