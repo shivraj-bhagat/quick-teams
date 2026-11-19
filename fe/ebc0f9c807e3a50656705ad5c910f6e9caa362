@@ -1,0 +1,23 @@
+test/fixtures/preferences.yml
+  s_379bf6314ff9a8::t_3b8a0d969c2753 5,10
+test/system/permissions/employee/spaces_test.rb
+  s_379bf6314ff9a8::t_6006347c57d6f4 260-264
+test/application_system_test_case.rb
+  s_379bf6314ff9a8::t_55b23021e20e0a 20-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "feebc0f9c807e3a50656705ad5c910f6e9caa362",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
