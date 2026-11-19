@@ -1,0 +1,23 @@
+mise.toml
+  s_379bf6314ff9a8::t_9f1730679e6806 2
+.ruby-version
+  s_379bf6314ff9a8::t_9f1730679e6806 1
+Gemfile
+  s_379bf6314ff9a8::t_9f1730679e6806 7,58,91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "360295c985a7534b0e73a01fc473d21079bf2d06",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
