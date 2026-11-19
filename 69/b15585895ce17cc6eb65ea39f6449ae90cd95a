@@ -1,0 +1,9 @@
+Gemfile.lock
+  ai_agent 146,192,278-281,286,373-374,376-377,427,441
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "69b15585895ce17cc6eb65ea39f6449ae90cd95a",
+  "prompts": {}
+}
