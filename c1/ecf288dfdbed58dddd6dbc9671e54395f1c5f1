@@ -1,0 +1,21 @@
+app/views/shared/navbar/_admin.html.erb
+  s_3c93c3abf9a66d::t_11253beb90642b 35
+docs/ui-audit/design-system.md
+  ai_agent 95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "c1ecf288dfdbed58dddd6dbc9671e54395f1c5f1",
+  "prompts": {},
+  "sessions": {
+    "s_3c93c3abf9a66d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc0e2dd5-395f-42a5-9e93-c80daec7658d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
