@@ -1,0 +1,23 @@
+Gemfile.lock
+  ai_agent 82,480
+test/models/tenancy_test.rb
+  s_379bf6314ff9a8::t_42fdbe4f50fdb7 1-63
+Gemfile
+  s_379bf6314ff9a8::t_97555c67e242bb 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "34ec9cbff5b21af7ccc7bd7b1ab703ed164477eb",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
