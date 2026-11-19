@@ -1,0 +1,34 @@
+script/ui_audit/boards.py
+  s_3c93c3abf9a66d::t_1dd9d1fda3f573 1-88
+app/views/devise/confirmations/new.html.erb
+  s_3c93c3abf9a66d::t_779cfaf4c5ae5d 3-6,8
+script/ui_audit/report.rb
+  s_3c93c3abf9a66d::t_a05b07b6e57750 92-131
+  s_3c93c3abf9a66d::t_591375eb8c7320 10
+app/views/devise/passwords/edit.html.erb
+  s_3c93c3abf9a66d::t_779cfaf4c5ae5d 3-6,8
+app/views/devise/registrations/new.html.erb
+  s_3c93c3abf9a66d::t_779cfaf4c5ae5d 3-6,8
+app/views/devise/sessions/new.html.erb
+  s_3c93c3abf9a66d::t_779cfaf4c5ae5d 3-6,8
+app/views/devise/passwords/new.html.erb
+  s_3c93c3abf9a66d::t_779cfaf4c5ae5d 3-6,8
+app/views/devise/invitations/edit.html.erb
+  s_3c93c3abf9a66d::t_779cfaf4c5ae5d 3-6,8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5273657ff3f159fb1998f9c94bd79b564f3ef6a9",
+  "prompts": {},
+  "sessions": {
+    "s_3c93c3abf9a66d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc0e2dd5-395f-42a5-9e93-c80daec7658d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
