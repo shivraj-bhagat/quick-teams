@@ -1,0 +1,9 @@
+test/system/general/user_test.rb
+  ai_agent 55-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "fdefdb42a8b521b7911a0730bcdd9ca9a0bf1469",
+  "prompts": {}
+}
