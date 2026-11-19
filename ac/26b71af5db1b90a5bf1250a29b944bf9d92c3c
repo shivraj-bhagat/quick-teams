@@ -1,0 +1,34 @@
+docs/ui-audit/figma-boards/lead.svg
+  s_3c93c3abf9a66d::t_4b6dc9ef5dbb39 1
+docs/ui-audit/compare.html
+  s_3c93c3abf9a66d::t_591375eb8c7320 1-9694
+docs/ui-audit/figma-boards/member.svg
+  s_3c93c3abf9a66d::t_4b6dc9ef5dbb39 1
+docs/ui-audit/README.md
+  s_3c93c3abf9a66d::t_657ded5712c995 99-134,153-159,174-179
+  s_3c93c3abf9a66d::t_591375eb8c7320 135-136,138-152
+docs/ui-audit/figma-boards/owner.svg
+  s_3c93c3abf9a66d::t_4b6dc9ef5dbb39 1
+docs/ui-audit/figma-boards/visitor.svg
+  s_3c93c3abf9a66d::t_4b6dc9ef5dbb39 1
+docs/ui-audit/figma-boards/admin.svg
+  s_3c93c3abf9a66d::t_4b6dc9ef5dbb39 1
+docs/ui-audit/figma-boards/subscription.svg
+  s_3c93c3abf9a66d::t_4b6dc9ef5dbb39 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "ac26b71af5db1b90a5bf1250a29b944bf9d92c3c",
+  "prompts": {},
+  "sessions": {
+    "s_3c93c3abf9a66d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc0e2dd5-395f-42a5-9e93-c80daec7658d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
