@@ -1,0 +1,106 @@
+app/views/employee/timesheets/index.html.erb
+  s_ce77e5395e43ad::t_08634cc4af77f6 12-19
+app/views/employee/schedules/edit.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 47
+app/views/employees/_deactivated_user.html.erb
+  s_ce77e5395e43ad::t_19e7814a3b86e1 17
+app/views/employee/documents/_form.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 31
+app/views/employees/forms/_form.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 47-48
+app/views/employee/_tabs.html.erb
+  s_ce77e5395e43ad::t_9cd4195d97ea80 1-41
+app/views/employees/_employee.html.erb
+  s_ce77e5395e43ad::t_19e7814a3b86e1 53,60
+app/views/employee/_tags.html.erb
+  s_ce77e5395e43ad::t_2d6e4680a1bb61 3-4
+app/views/employee/about/edit.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 13,16
+app/views/employee/feedbacks/show.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 23,26
+  s_ce77e5395e43ad::t_19e7814a3b86e1 39,56
+app/views/employee/documents/edit.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 13-14
+app/views/employee/schedules/_form.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 31
+app/views/employee/feedbacks/_form.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 8
+app/views/employee/surveys/index.html.erb
+  s_ce77e5395e43ad::t_08634cc4af77f6 12-20
+app/views/employee/skills/_skills.html.erb
+  s_ce77e5395e43ad::t_f575253a44956d 11
+app/views/employees/new.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 29-30
+app/views/employees/deactivated.html.erb
+  s_ce77e5395e43ad::t_19e7814a3b86e1 12
+app/views/employee/reports/show.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 24,26
+  s_ce77e5395e43ad::t_19e7814a3b86e1 39,53
+app/views/employee/todos/show.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 24,27
+  s_ce77e5395e43ad::t_19e7814a3b86e1 43,60
+app/views/employee/skills/show_skills.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 12
+app/views/employee/schedules/_schedule.html.erb
+  s_ce77e5395e43ad::t_19e7814a3b86e1 26,31
+app/views/employee/surveys/_filled_survey.html.erb
+  s_ce77e5395e43ad::t_f575253a44956d 33
+  s_ce77e5395e43ad::t_19e7814a3b86e1 30
+app/views/employee/_title.html.erb
+  s_ce77e5395e43ad::t_bb004c0b5d49fe 1-6,11-16,18-20,22-38,40-53
+app/views/employee/reports/_form.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 11
+app/views/employee/todos/edit.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 14-15
+app/views/employee/feedbacks/edit.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 10-11
+app/views/employee/feedbacks/index.html.erb
+  s_ce77e5395e43ad::t_08634cc4af77f6 11-18
+app/views/employee/goals/edit.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 22-23
+app/views/employee/goals/show.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 6,8
+app/views/employee/reports/edit.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 10
+app/views/employee/goals/index.html.erb
+  s_ce77e5395e43ad::t_08634cc4af77f6 11-18
+app/views/employee/reports/index.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 56
+  s_ce77e5395e43ad::t_08634cc4af77f6 12-18
+app/views/employee/timesheets/edit.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 25-26
+app/views/employee/timesheets/_form.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 30
+app/views/employees/index.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 4
+  s_ce77e5395e43ad::t_49ba206e6494c6 2
+  s_ce77e5395e43ad::t_08634cc4af77f6 14-21
+  s_ce77e5395e43ad::t_6ca13dcce1db35 13
+  s_ce77e5395e43ad::t_fd8cec7fc99b61 3,5-6
+app/views/employee/todos/index.html.erb
+  s_ce77e5395e43ad::t_08634cc4af77f6 12-19
+app/views/employee/documents/index.html.erb
+  s_ce77e5395e43ad::t_08634cc4af77f6 13-19
+app/views/employee/_status.html.erb
+  s_ce77e5395e43ad::t_2d6e4680a1bb61 2-3
+app/views/employee/todos/_form.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 14
+app/views/employee/goals/_form.html.erb
+  s_ce77e5395e43ad::t_332be4433d0b0e 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "080559a492338e64cc5ea8a67fb4c60bd11496ed",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
