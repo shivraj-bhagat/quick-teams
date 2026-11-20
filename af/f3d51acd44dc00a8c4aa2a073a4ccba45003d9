@@ -1,0 +1,46 @@
+app/helpers/avatar_helper.rb
+  s_ce77e5395e43ad::t_72568631f5db6e 1,4,8,12,16
+app/views/shared/_comment.html.erb
+  s_ce77e5395e43ad::t_c5c96964209a66 1-5,7-13
+app/views/shared/_no_result_found.html.erb
+  s_ce77e5395e43ad::t_c5c96964209a66 1
+app/helpers/button_helper.rb
+  s_ce77e5395e43ad::t_72568631f5db6e 1,3,5-6,9,11,15,19,23-26,28-31
+app/views/shared/_modal.html.erb
+  s_ce77e5395e43ad::t_c5c96964209a66 1-9
+app/views/shared/_account_menu.html.erb
+  s_ce77e5395e43ad::t_b1f817722e29a0 1,20
+  s_ce77e5395e43ad::t_4889d014b1001a 2-5,7-19
+app/views/shared/_assessment.html.erb
+  s_ce77e5395e43ad::t_0ee15bfda23744 1-16,18-22,24,26-27,30
+app/views/shared/_settings_menu.html.erb
+  s_ce77e5395e43ad::t_b1f817722e29a0 1,5
+  s_ce77e5395e43ad::t_4889d014b1001a 2-4
+app/components/ui/side_menu_component.html.erb
+  s_ce77e5395e43ad::t_4889d014b1001a 2,4
+app/components/ui/side_menu_component.rb
+  s_ce77e5395e43ad::t_4889d014b1001a 12
+app/views/shared/_archive_menu.html.erb
+  s_ce77e5395e43ad::t_b1f817722e29a0 1,5
+  s_ce77e5395e43ad::t_4889d014b1001a 2-4
+app/components/ui/button_component.rb
+  s_ce77e5395e43ad::t_72568631f5db6e 21
+app/views/shared/_form_header.html.erb
+  s_ce77e5395e43ad::t_c5c96964209a66 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "aff3d51acd44dc00a8c4aa2a073a4ccba45003d9",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
