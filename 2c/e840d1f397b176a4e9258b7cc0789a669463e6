@@ -1,0 +1,25 @@
+app/components/ui/auth_card_component.rb
+  s_ce77e5395e43ad::t_ccc6ea8bd7f480 17-18
+docs/ui-audit/README.md
+  s_ce77e5395e43ad::t_1fdf44c18fbf28 155-185
+config/initializers/tailwind_form_builder.rb
+  s_ce77e5395e43ad::t_48cbb3bfb1a24f 45-59
+test/components/ui/layout_component_test.rb
+  s_ce77e5395e43ad::t_ccc6ea8bd7f480 114-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "2ce840d1f397b176a4e9258b7cc0789a669463e6",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
