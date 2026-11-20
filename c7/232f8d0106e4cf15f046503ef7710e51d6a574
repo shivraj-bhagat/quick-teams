@@ -1,0 +1,57 @@
+test/components/previews/ui/layout_preview/timeline.html.erb
+  s_ce77e5395e43ad::t_a5d2f5fa2ebdf3 1-6
+app/components/ui/timeline_item_component.rb
+  s_ce77e5395e43ad::t_fb7b4d02efefda 1-15
+app/components/ui/form_container_component.rb
+  s_ce77e5395e43ad::t_ca44af396626bc 1-18
+config/initializers/tailwind_form_builder.rb
+  s_ce77e5395e43ad::t_c8799c2b9963d2 5,17,28,39
+app/components/ui/tag_component.rb
+  s_ce77e5395e43ad::t_e7875111f62e77 16
+app/components/ui/loading_component.rb
+  s_ce77e5395e43ad::t_ca44af396626bc 1-19
+app/components/ui/kebab_menu_component.html.erb
+  s_ce77e5395e43ad::t_1a79d52cda9ded 1-4
+test/components/previews/ui/layout_preview/split_layout.html.erb
+  s_ce77e5395e43ad::t_a5d2f5fa2ebdf3 1-8
+app/components/ui/billable_avatar_component.rb
+  s_ce77e5395e43ad::t_bea3a53f736db3 1-19
+test/components/previews/ui/layout_preview.rb
+  s_ce77e5395e43ad::t_a5d2f5fa2ebdf3 1-19
+app/components/ui/kebab_menu_component.rb
+  s_ce77e5395e43ad::t_1a79d52cda9ded 1-25
+app/components/ui/page_component.rb
+  s_ce77e5395e43ad::t_a5d2f5fa2ebdf3 1-18
+app/components/ui/text_link_component.rb
+  s_ce77e5395e43ad::t_70fe2341389ebe 4,7,9-16,19,24
+app/components/ui/billable_avatar_component.html.erb
+  s_ce77e5395e43ad::t_bea3a53f736db3 1-4
+app/components/ui/split_layout_component.html.erb
+  s_ce77e5395e43ad::t_a5d2f5fa2ebdf3 1-8
+test/components/ui/layout_component_test.rb
+  s_ce77e5395e43ad::t_a5d2f5fa2ebdf3 1-72
+test/components/ui/tag_and_dot_component_test.rb
+  s_ce77e5395e43ad::t_70fe2341389ebe 22-38
+app/components/ui/timeline_item_component.html.erb
+  s_ce77e5395e43ad::t_fb7b4d02efefda 1-18
+app/components/ui/split_layout_component.rb
+  s_ce77e5395e43ad::t_a5d2f5fa2ebdf3 1-41
+test/components/previews/ui/layout_preview/list_rows.html.erb
+  s_ce77e5395e43ad::t_a5d2f5fa2ebdf3 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "c7232f8d0106e4cf15f046503ef7710e51d6a574",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
