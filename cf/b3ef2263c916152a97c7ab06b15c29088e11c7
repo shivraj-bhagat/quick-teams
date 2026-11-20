@@ -1,0 +1,35 @@
+app/components/ui/stat_strip_component.html.erb
+  s_ce77e5395e43ad::t_fd9157c8db6a2d 2
+  s_ce77e5395e43ad::t_207601f9879950 1,3-5
+app/components/ui/search_field_component.html.erb
+  s_ce77e5395e43ad::t_13b8a751cb60d3 1-19
+test/components/ui/layout_component_test.rb
+  s_ce77e5395e43ad::t_fd9157c8db6a2d 73-113
+app/components/ui/progress_bar_component.html.erb
+  s_ce77e5395e43ad::t_13b8a751cb60d3 1-9
+app/components/ui/search_field_component.rb
+  s_ce77e5395e43ad::t_13b8a751cb60d3 1-36
+app/components/ui/progress_bar_component.rb
+  s_ce77e5395e43ad::t_13b8a751cb60d3 1-23
+app/components/ui/text_link_component.rb
+  s_ce77e5395e43ad::t_41fc838922df5a 4,12
+app/components/ui/stat_strip_component.rb
+  s_ce77e5395e43ad::t_fd9157c8db6a2d 6,10-11,13-20
+  s_ce77e5395e43ad::t_207601f9879950 1-5,7-9,12,21-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "cfb3ef2263c916152a97c7ab06b15c29088e11c7",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
