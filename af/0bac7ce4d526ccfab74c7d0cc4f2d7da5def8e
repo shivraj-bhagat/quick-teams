@@ -1,0 +1,31 @@
+app/views/assignees/_form.html.erb
+  s_ce77e5395e43ad::t_1597755dfdb7b4 8
+app/views/survey/reports/_preview_score.html.erb
+  s_ce77e5395e43ad::t_10202909809567 9,11,13,15
+app/views/survey/assignees/_form.html.erb
+  s_ce77e5395e43ad::t_1597755dfdb7b4 14
+app/views/survey/attempts/new.html.erb
+  s_ce77e5395e43ad::t_1597755dfdb7b4 21-22
+app/views/user/notifications.html.erb
+  s_ce77e5395e43ad::t_1597755dfdb7b4 76
+app/views/survey/reports/_preview_checklist.html.erb
+  s_ce77e5395e43ad::t_10202909809567 10,12,14
+app/views/report/risks/_risk.html.erb
+  s_ce77e5395e43ad::t_24c05ea141ba84 7,9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "af0bac7ce4d526ccfab74c7d0cc4f2d7da5def8e",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
