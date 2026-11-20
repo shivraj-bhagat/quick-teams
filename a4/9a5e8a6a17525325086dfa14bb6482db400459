@@ -1,0 +1,25 @@
+app/views/user/forms/_avatar.html.erb
+  s_ce77e5395e43ad::t_386c5ac4267b5d 30,35
+app/views/shared/surveys/_question.html.erb
+  s_ce77e5395e43ad::t_b688d48d6fc3b5 13,15
+app/views/shared/surveys/_progress_bar.html.erb
+  s_ce77e5395e43ad::t_13b8a751cb60d3 1
+app/views/shared/navbar/_admin.html.erb
+  s_ce77e5395e43ad::t_13b8a751cb60d3 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a49a5e8a6a17525325086dfa14bb6482db400459",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
