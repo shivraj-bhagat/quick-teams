@@ -1,0 +1,23 @@
+app/components/ui/stat_card_component.html.erb
+  s_ce77e5395e43ad::t_347553cce8ba87 2,4,8-16
+app/components/ui/stat_card_component.rb
+  s_ce77e5395e43ad::t_347553cce8ba87 4,7,9-13,18,23
+test/components/ui/stat_card_component_test.rb
+  s_ce77e5395e43ad::t_9428b7797792d8 15-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "00283d65c3dd6a169aa38c85f729eb126e0f6e08",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
