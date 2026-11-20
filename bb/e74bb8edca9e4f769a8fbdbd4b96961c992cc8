@@ -1,0 +1,242 @@
+app/components/ui/submit_button_component.rb
+  s_ce77e5395e43ad::t_e60c952b3e2d98 1-25
+app/views/user/password.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,5-6
+app/views/account/question_categories/_question_category.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-7
+app/views/devise/registrations/new.html.erb
+  s_ce77e5395e43ad::t_b49984f0511ed6 1,3
+app/views/account/project_statuses/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/account/project_tags/_form.html.erb
+  s_ce77e5395e43ad::t_d6361c6c459256 15
+  s_ce77e5395e43ad::t_61ffe4349e97fd 18
+app/views/account/disciplines/_discipline.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-7
+app/views/account/jobs/edit.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 9
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+app/views/account/ticket_labels/_ticket_label.html.erb
+  s_ce77e5395e43ad::t_31b66432d96918 2-7
+app/views/account/project_statuses/_form.html.erb
+  s_ce77e5395e43ad::t_d6361c6c459256 8
+  s_ce77e5395e43ad::t_61ffe4349e97fd 11
+app/components/ui/alert_component.html.erb
+  s_ce77e5395e43ad::t_88330ddef98c1f 1-14
+app/views/account/skills/edit.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 9
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+app/views/account/billing/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/user/preferences.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,16-17
+app/views/user/forms/_password.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 10
+app/components/ui/modal_component.rb
+  s_ce77e5395e43ad::t_6358ca2c58cad2 13-14,23,25-26,36-43
+app/views/account/ticket_labels/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 19
+app/views/spaces/archived.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,18-19
+app/views/employees/deactivated.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,43-44
+app/views/account/roles/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 7
+app/components/ui/text_link_component.rb
+  s_ce77e5395e43ad::t_88330ddef98c1f 1-18
+app/views/account/ticket_statuses/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/account/project_tags/_project_tag.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-8
+app/views/account/ticket_labels/edit.html.erb
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+  s_ce77e5395e43ad::t_61ffe4349e97fd 25
+app/views/account/ticket_labels/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/components/ui/color_picker_component.html.erb
+  s_ce77e5395e43ad::t_e60c952b3e2d98 1-8
+app/views/account/jobs/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 7
+app/views/account/people_statuses/edit.html.erb
+  s_ce77e5395e43ad::t_d6361c6c459256 7
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+  s_ce77e5395e43ad::t_61ffe4349e97fd 10
+app/views/account/skills/_skill.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-7
+app/views/account/ticket_statuses/_ticket_status.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-8
+app/views/account/billing/_subscribe.html.erb
+  ai_agent 7
+app/components/ui/auth_card_component.html.erb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 1-4
+app/views/devise/confirmations/new.html.erb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 1,3-8,10-14,16-17
+app/views/purchase/checkouts/success.html.erb
+  ai_agent 1-9,13-16
+app/views/account/clients/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 12
+app/assets/tailwind/application.css
+  s_ce77e5395e43ad::t_c82773ca2e57d8 6-8
+app/views/account/billing/_expired.html.erb
+  ai_agent 10
+app/components/ui/form_page_component.html.erb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 1-10
+app/components/ui/color_picker_component.rb
+  s_ce77e5395e43ad::t_e60c952b3e2d98 1-16,18-19
+  s_ce77e5395e43ad::t_c82773ca2e57d8 17
+app/views/account/account/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,5-6
+app/views/account/roles/edit.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 9
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+app/components/ui/list_row_component.html.erb
+  s_ce77e5395e43ad::t_e60c952b3e2d98 1-10
+app/views/account/disciplines/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 7
+app/views/account/jobs/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/account/preferences/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,18-19
+app/views/account/disciplines/edit.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 9
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+app/views/devise/registrations/edit.html.erb
+  s_ce77e5395e43ad::t_b49984f0511ed6 1-2,35
+app/views/devise/passwords/edit.html.erb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 1,4-15,17-21,23-24
+app/views/account/skills/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 7
+app/components/ui/auth_card_component.rb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 1-18
+app/views/account/project_statuses/edit.html.erb
+  s_ce77e5395e43ad::t_d6361c6c459256 7
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+  s_ce77e5395e43ad::t_61ffe4349e97fd 10
+app/views/account/clients/edit.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 12
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+app/views/account/people_statuses/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/user/notifications.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,81-82
+app/views/user/profile.html.erb
+  s_ce77e5395e43ad::t_dcb923050cfc2b 1-2,6-10,12
+app/views/account/people_statuses/_people_status.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-8
+app/views/devise/invitations/new.html.erb
+  s_ce77e5395e43ad::t_b49984f0511ed6 1,16
+app/components/ui/list_row_component.rb
+  s_ce77e5395e43ad::t_e60c952b3e2d98 1-19
+app/components/ui/settings_layout_component.rb
+  s_ce77e5395e43ad::t_dcb923050cfc2b 11-13
+  s_ce77e5395e43ad::t_e60c952b3e2d98 1-10,14-29
+app/views/account/tags/_tag.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-6
+app/views/devise/unlocks/new.html.erb
+  s_ce77e5395e43ad::t_b49984f0511ed6 1,18
+app/views/account/ticket_statuses/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 11
+  s_ce77e5395e43ad::t_d6361c6c459256 8
+app/components/ui/settings_layout_component.html.erb
+  s_ce77e5395e43ad::t_dcb923050cfc2b 7
+  s_ce77e5395e43ad::t_e60c952b3e2d98 1-6,8-9
+app/components/ui/form_page_component.rb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 1-19
+app/views/account/people_statuses/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 11
+  s_ce77e5395e43ad::t_d6361c6c459256 8
+app/views/account/project_tags/edit.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 10
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+  s_ce77e5395e43ad::t_d6361c6c459256 7
+app/views/account/clients/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/account/tags/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,6-7
+app/views/devise/invitations/edit.html.erb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 1,3-15,18-19
+app/views/account/account/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 7
+app/views/account/clients/_client.html.erb
+  s_ce77e5395e43ad::t_31b66432d96918 2-8
+app/components/ui/inline_errors_component.rb
+  s_ce77e5395e43ad::t_40ef5a0334b67c 1-20
+app/views/account/billing/_trial.html.erb
+  ai_agent 10
+app/views/user/forms/_profile.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 11
+app/views/account/skills/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/account/people_tags/_people_tag.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-8
+app/views/account/project_statuses/_project_status.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-8
+app/views/account/people_tags/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/purchase/billings/expired.html.erb
+  ai_agent 1-7,9,13-26
+app/views/account/question_categories/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/devise/shared/_error_messages.html.erb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 2-5
+app/views/devise/shared/_success_message.html.erb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 2
+app/views/account/roles/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/components/ui/modal_component.html.erb
+  s_ce77e5395e43ad::t_6358ca2c58cad2 1-2,6,26-27
+app/views/account/disciplines/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/account/roles/_role.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-7
+app/views/devise/registrations/_form.html.erb
+  s_ce77e5395e43ad::t_b49984f0511ed6 1,3-23,25-26,29-33
+app/views/account/people_tags/edit.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 10
+  s_ce77e5395e43ad::t_d6361c6c459256 7
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+app/views/account/question_categories/edit.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 9
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+app/components/ui/auth_page_component.rb
+  s_ce77e5395e43ad::t_88330ddef98c1f 1-18
+app/views/devise/passwords/new.html.erb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 1,3-8,10-14,16-17
+app/views/account/ticket_statuses/edit.html.erb
+  s_ce77e5395e43ad::t_40ef5a0334b67c 3
+  s_ce77e5395e43ad::t_d6361c6c459256 7
+  s_ce77e5395e43ad::t_61ffe4349e97fd 10
+app/views/account/project_tags/index.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,8-9
+app/views/account/jobs/_job.html.erb
+  s_ce77e5395e43ad::t_e3533ae76d3e77 2-7
+app/views/account/question_categories/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 7
+app/components/ui/auth_page_component.html.erb
+  s_ce77e5395e43ad::t_88330ddef98c1f 1-13
+app/views/devise/sessions/new.html.erb
+  s_ce77e5395e43ad::t_37c3056ab4a85e 1-5,7-15,17-18,21-22,24-31,33-35
+app/components/ui/alert_component.rb
+  s_ce77e5395e43ad::t_88330ddef98c1f 1-28
+app/views/projects/archived.html.erb
+  s_ce77e5395e43ad::t_7d98345780e919 1,41-42
+app/views/account/people_tags/_form.html.erb
+  s_ce77e5395e43ad::t_61ffe4349e97fd 11
+  s_ce77e5395e43ad::t_d6361c6c459256 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "bbe74bb8edca9e4f769a8fbdbd4b96961c992cc8",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
