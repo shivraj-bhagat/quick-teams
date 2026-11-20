@@ -1,0 +1,37 @@
+test/application_system_test_case.rb
+  s_379bf6314ff9a8::t_205330a72cfba3 29-30,32-33
+config/routes.rb
+  s_379bf6314ff9a8::t_cbd2ba07dd8bbc 12-14
+app/javascript/reflex_actions.js
+  s_379bf6314ff9a8::t_ca856f4d73d5ad 1-58,60-80
+  s_379bf6314ff9a8::t_d380adc9dc1067 59
+app/controllers/reflex_actions_controller.rb
+  s_379bf6314ff9a8::t_573c505ba3c690 54,58,60,63,65
+  s_379bf6314ff9a8::t_defb2476b71c80 4,28-29,34-36,38,49-53,55
+  s_379bf6314ff9a8::t_d380adc9dc1067 57,59,61-62,64,66-69
+  s_379bf6314ff9a8::t_e7c57424610cc9 1-3,5-27,30-33,37,39-48,56,70-74
+app/javascript/application.js
+  s_379bf6314ff9a8::t_54dd6da53349bf 4
+test/controllers/reflex_actions_controller_test.rb
+  s_379bf6314ff9a8::t_7827a96289339a 1-70
+config/importmap.rb
+  s_379bf6314ff9a8::t_54dd6da53349bf 5
+app/reflexes/application_reflex.rb
+  s_379bf6314ff9a8::t_a3c72f4de16525 3-18,20-25,27-39,42-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "36538d53c7101af7a61084a239e6a2dd907a2d1c",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
