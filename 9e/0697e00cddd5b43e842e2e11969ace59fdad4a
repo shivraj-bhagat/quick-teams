@@ -1,0 +1,186 @@
+app/components/ui/badge_component.rb
+  s_ce77e5395e43ad::t_eed4b551e52f96 1-22
+test/components/previews/ui/page_header_component_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-9
+test/components/ui/badge_component_test.rb
+  s_ce77e5395e43ad::t_7a16ebdfe3ea69 1-12
+app/components/ui/form_actions_component.rb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-18
+test/components/ui/flash_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-17
+test/components/previews/ui/card_component_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-19
+app/components/ui/flash_component.rb
+  s_ce77e5395e43ad::t_65ac0e03ed1ed5 1-25
+test/components/previews/ui/card_component_preview/stat_cards.html.erb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-5
+app/components/ui/card_component.rb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1-12,14-27
+  s_ce77e5395e43ad::t_65ac0e03ed1ed5 13
+app/components/ui/tag_component.rb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-18
+app/components/ui/empty_state_component.html.erb
+  s_ce77e5395e43ad::t_eed4b551e52f96 1-16
+app/components/ui/page_header_component.html.erb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1-15
+test/components/previews/ui/feedback_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-13
+app/components/ui/button_component.rb
+  s_ce77e5395e43ad::t_eed4b551e52f96 1-52
+test/components/previews/ui/button_component_preview/variants.html.erb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-11
+app/components/ui/modal_component.html.erb
+  s_ce77e5395e43ad::t_65ac0e03ed1ed5 1-27
+app/components/ui/nav_item_component.rb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1-32
+test/components/previews/ui/tabs_component_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-9
+test/components/ui/avatar_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-23
+app/components/ui/side_menu_component.html.erb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1-5
+test/components/previews/ui/feedback_preview/flash_messages.html.erb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-2
+app/components/ui/tabs_component.html.erb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1-9
+test/components/ui/form_components_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-27
+app/components/ui/stat_card_component.html.erb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1-9
+test/components/ui/page_header_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-20
+test/components/previews/ui/table_component_preview/default.html.erb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-15
+test/components/ui/side_menu_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-15
+test/components/previews/ui/icon_component_preview/all.html.erb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-7
+test/components/previews/ui/badge_component_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-5
+app/components/ui/dropdown_component.rb
+  s_ce77e5395e43ad::t_65ac0e03ed1ed5 1-47
+test/components/ui/icon_component_test.rb
+  s_ce77e5395e43ad::t_7a16ebdfe3ea69 1-30
+app/components/ui/back_button_component.rb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-19
+app/components/ui/icon_component.rb
+  s_ce77e5395e43ad::t_ddb792c3e9a114 1-65
+app/components/ui/modal_component.rb
+  s_ce77e5395e43ad::t_65ac0e03ed1ed5 1-36
+app/components/ui/stat_card_component.rb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1-20
+Gemfile
+  s_ce77e5395e43ad::t_4344bd15fec107 90-91
+test/components/previews/ui/form_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-5
+test/components/previews/ui/navigation_preview/nav_items.html.erb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-5
+app/components/ui/dropdown_component.html.erb
+  s_ce77e5395e43ad::t_65ac0e03ed1ed5 1-14
+test/components/previews/ui/navigation_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-13
+app/components/ui/section_heading_component.html.erb
+  s_ce77e5395e43ad::t_eed4b551e52f96 1-9
+app/components/ui/avatar_group_component.html.erb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-6
+test/components/ui/nav_item_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-25
+test/components/previews_test.rb
+  s_ce77e5395e43ad::t_18ddca9da47558 1-13
+app/components/ui/page_header_component.rb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1-28
+app/components/ui/tabs_component.rb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1-37
+test/components/ui/tabs_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-16
+test/components/previews/ui/avatar_component_preview/sizes.html.erb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-5
+app/views/layouts/component_preview.html.erb
+  s_ce77e5395e43ad::t_cf392704a9de82 1-18
+test/components/previews/ui/form_preview/fields.html.erb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-16
+test/components/previews/ui/modal_component_preview/confirm.html.erb
+  s_ce77e5395e43ad::t_18ddca9da47558 1-7
+test/components/previews/ui/avatar_component_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-13
+test/components/previews/ui/dropdown_component_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-17
+test/components/ui/section_heading_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-15
+test/components/ui/empty_state_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-15
+test/components/ui_component_test_case.rb
+  s_ce77e5395e43ad::t_cf392704a9de82 1-11
+test/components/previews/ui/table_component_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-5
+test/components/ui/dropdown_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-20
+app/components/ui/section_heading_component.rb
+  s_ce77e5395e43ad::t_eed4b551e52f96 1-16
+app/components/ui/form_field_component.html.erb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-6
+app/components/ui/form_field_component.rb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-18
+test/components/ui/stat_card_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-15
+test/components/previews/ui/modal_component_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-2,4-5
+  s_ce77e5395e43ad::t_18ddca9da47558 3
+test/components/ui/table_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-14
+app/components/ui/avatar_component.rb
+  s_ce77e5395e43ad::t_eed4b551e52f96 1-39
+app/components/ui/card_component.html.erb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1,3-4,6-12
+  s_ce77e5395e43ad::t_65ac0e03ed1ed5 2,5
+app/components/ui/empty_state_component.rb
+  s_ce77e5395e43ad::t_eed4b551e52f96 1-15
+app/components/ui/checkbox_field_component.html.erb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-6
+config/application.rb
+  s_ce77e5395e43ad::t_cf392704a9de82 24-26
+test/components/ui/button_component_test.rb
+  s_ce77e5395e43ad::t_7a16ebdfe3ea69 1-32
+test/components/previews/ui/badge_component_preview/colors.html.erb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-7
+test/components/previews/ui/button_component_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-11
+test/components/previews/ui/icon_component_preview.rb
+  s_ce77e5395e43ad::t_0c0a61d4adfeba 1-5
+app/components/ui/status_dot_component.rb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-17
+app/components/ui/table_component.html.erb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-12
+test/components/ui/tag_and_dot_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-13
+app/components/ui/avatar_group_component.rb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-15
+app/components/ui/table_component.rb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-34
+app/components/ui/pagination_component.rb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-19
+test/components/ui/card_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-21
+test/components/ui/modal_component_test.rb
+  s_ce77e5395e43ad::t_526090a30c68d8 1-22
+app/components/ui/side_menu_component.rb
+  s_ce77e5395e43ad::t_91701c73c6eb7a 1-39
+app/components/ui/checkbox_field_component.rb
+  s_ce77e5395e43ad::t_56e0a47cf54737 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "9e0697e00cddd5b43e842e2e11969ace59fdad4a",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
