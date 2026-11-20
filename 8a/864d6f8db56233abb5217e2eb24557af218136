@@ -1,0 +1,43 @@
+app/views/employee/todos/_form.html.erb
+  s_ce77e5395e43ad::t_ecc70ae349e84e 13,15
+app/views/employee/todos/edit.html.erb
+  s_ce77e5395e43ad::t_ecc70ae349e84e 13,16
+app/views/employees/_deactivated_user.html.erb
+  s_ce77e5395e43ad::t_ecc70ae349e84e 28,31
+app/views/employee/goals/edit.html.erb
+  s_ce77e5395e43ad::t_ecc70ae349e84e 21,24
+app/views/employees/new.html.erb
+  s_ce77e5395e43ad::t_ecc70ae349e84e 28,31
+app/views/employee/feedbacks/_form.html.erb
+  s_ce77e5395e43ad::t_ecc70ae349e84e 7,9
+app/views/employees/_employee.html.erb
+  s_ce77e5395e43ad::t_347553cce8ba87 30
+app/views/employee/goals/_form.html.erb
+  s_ce77e5395e43ad::t_ecc70ae349e84e 19,21
+app/views/employee/documents/edit.html.erb
+  s_ce77e5395e43ad::t_ecc70ae349e84e 12,15
+app/views/employees/forms/_form.html.erb
+  s_ce77e5395e43ad::t_ecc70ae349e84e 46,49
+app/views/employee/timesheets/_stats.html.erb
+  s_ce77e5395e43ad::t_347553cce8ba87 12-14
+app/views/employee/team/_employee.html.erb
+  s_ce77e5395e43ad::t_347553cce8ba87 26
+app/views/employee/feedbacks/edit.html.erb
+  s_ce77e5395e43ad::t_ecc70ae349e84e 9,12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "8a864d6f8db56233abb5217e2eb24557af218136",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
