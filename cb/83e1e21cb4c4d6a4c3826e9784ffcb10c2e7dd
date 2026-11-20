@@ -1,0 +1,33 @@
+app/views/shared/goals/_title.html.erb
+  s_ce77e5395e43ad::t_70fe2341389ebe 11
+app/views/account/clients/_form.html.erb
+  s_ce77e5395e43ad::t_c8799c2b9963d2 6
+app/views/shared/_assessment.html.erb
+  s_ce77e5395e43ad::t_a0ec8711ad9c32 18
+  s_ce77e5395e43ad::t_ca44af396626bc 20
+  s_ce77e5395e43ad::t_c8799c2b9963d2 13
+app/views/account/ticket_labels/edit.html.erb
+  s_ce77e5395e43ad::t_c8799c2b9963d2 19
+app/views/accounts/clients.html.erb
+  s_ce77e5395e43ad::t_c8799c2b9963d2 16
+app/views/shared/_avatar.html.erb
+  s_ce77e5395e43ad::t_bea3a53f736db3 1
+app/views/shared/messages/_title.html.erb
+  s_ce77e5395e43ad::t_1a79d52cda9ded 11-18,20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "cb83e1e21cb4c4d6a4c3826e9784ffcb10c2e7dd",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
