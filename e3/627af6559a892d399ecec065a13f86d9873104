@@ -1,0 +1,37 @@
+test/controllers/planners_controller_test.rb
+  s_379bf6314ff9a8::t_fca30f8b2229e4 43-53
+app/controllers/job_cards_controller.rb
+  s_379bf6314ff9a8::t_1b12bfdf6dd50a 10,23-25,61-66
+test/models/job_card_test.rb
+  s_379bf6314ff9a8::t_fca30f8b2229e4 72-87
+app/controllers/planners_controller.rb
+  s_379bf6314ff9a8::t_c0911601411b53 6,13
+test/controllers/job_cards_controller_test.rb
+  s_379bf6314ff9a8::t_fca30f8b2229e4 133-199
+app/javascript/controllers/daily_planner_controller.js
+  s_379bf6314ff9a8::t_c9f5755df4231e 15-17,28-30,53-55
+app/policies/job_card_policy.rb
+  s_379bf6314ff9a8::t_1b12bfdf6dd50a 2,13,17
+app/models/job_card.rb
+  s_379bf6314ff9a8::t_1b12bfdf6dd50a 12-14,22-26,73-76
+app/views/planners/daily.html.erb
+  s_379bf6314ff9a8::t_c9f5755df4231e 2-6
+test/system/employee/planner_test.rb
+  s_379bf6314ff9a8::t_4b4b2b324504a0 90-113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "e3627af6559a892d399ecec065a13f86d9873104",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
