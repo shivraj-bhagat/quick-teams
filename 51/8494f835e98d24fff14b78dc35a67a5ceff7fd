@@ -1,0 +1,27 @@
+app/javascript/controllers/weekly_planner_controller.js
+  s_379bf6314ff9a8::t_76d15e2c004c8d 9-13,93
+config/initializers/tailwind_form_builder.rb
+  s_379bf6314ff9a8::t_cdf62a9251d8ab 2-4,16-17,28-29,40-41
+app/javascript/controllers/daily_planner_controller.js
+  s_379bf6314ff9a8::t_76d15e2c004c8d 9-13,134,163
+app/views/user/forms/_password.html.erb
+  s_379bf6314ff9a8::t_c79d9b79e22f5a 4
+app/views/survey/attempts/index.html.erb
+  s_379bf6314ff9a8::t_8eada99852a9a2 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "518494f835e98d24fff14b78dc35a67a5ceff7fd",
+  "prompts": {},
+  "sessions": {
+    "s_379bf6314ff9a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62abf739-6b6b-4473-8d9f-d5cd7bbc4e5c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
