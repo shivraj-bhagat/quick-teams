@@ -1,0 +1,43 @@
+docs/ui-audit/results-components.json
+  s_ce77e5395e43ad::t_5c8bd403e7b6e5 4466
+  s_ce77e5395e43ad::t_616533a200e0e4 4506
+  s_ce77e5395e43ad::t_5bf02ee1e5c079 3158
+app/components/ui/side_menu_component.rb
+  s_ce77e5395e43ad::t_52fb36dc6e0c17 4-5,10-17,19-22,24,27,30-31,33,38,46,49,54-62
+app/views/schedules/index.html.erb
+  s_ce77e5395e43ad::t_94c0940b1d0244 2-7,9-11,14-25,37
+test/components/ui/side_menu_component_test.rb
+  s_ce77e5395e43ad::t_52fb36dc6e0c17 15-28
+app/components/ui/inline_edit_form_component.rb
+  s_ce77e5395e43ad::t_688460075c4618 1-19
+app/views/shared/occupancy.html.erb
+  s_ce77e5395e43ad::t_2906e4d3b3b180 19
+  s_ce77e5395e43ad::t_e121e7f59e4d9c 1-4,6,8-18,20-24
+  s_ce77e5395e43ad::t_5c8bd403e7b6e5 7
+app/components/ui/inline_edit_form_component.html.erb
+  s_ce77e5395e43ad::t_688460075c4618 1-11
+app/views/employee/schedules/edit.html.erb
+  s_ce77e5395e43ad::t_688460075c4618 4-25
+app/views/schedules/_form.html.erb
+  s_ce77e5395e43ad::t_688460075c4618 4-21
+app/components/ui/side_menu_component.html.erb
+  s_ce77e5395e43ad::t_52fb36dc6e0c17 1-17
+app/views/project/schedules/edit.html.erb
+  s_ce77e5395e43ad::t_5bf02ee1e5c079 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "abacd872f367dc4ba72714e0e8446f18a8685335",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
