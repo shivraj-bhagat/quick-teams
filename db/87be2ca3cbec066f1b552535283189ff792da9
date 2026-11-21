@@ -1,0 +1,24 @@
+test/application_system_test_case.rb
+  s_ce77e5395e43ad::t_5710215c882a35 22-24
+test/system/permissions/employee/spaces_test.rb
+  s_ce77e5395e43ad::t_849324415819a8 216-220,226-227
+test/test_helper.rb
+  s_ce77e5395e43ad::t_86e9aa5fed5d20 3-6
+  s_ce77e5395e43ad::t_5710215c882a35 2,12-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "db87be2ca3cbec066f1b552535283189ff792da9",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
