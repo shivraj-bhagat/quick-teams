@@ -1,0 +1,20 @@
+docs/ui-audit/components.md
+  s_ce77e5395e43ad::t_4361a64b980132 726-732
+  s_ce77e5395e43ad::t_e41749d5360b5b 3,32-35,37,45-47,51-52,63,66,68,82,86-89,100,102,133-156,171,290-300,556-565,581-600,651-658,736-757
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "8e0b1902226e429804a74f6415b82e8875775b19",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
