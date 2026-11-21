@@ -1,0 +1,19 @@
+.github/workflows/rubyonrails.yml
+  s_da2d927624a5b5::t_ad127412240422 4,6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5db3d55b88cfa33199546ad9ca37b751debc7a60",
+  "prompts": {},
+  "sessions": {
+    "s_da2d927624a5b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8244bf8a-0a54-4b67-a215-1f86a83bfe2a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
