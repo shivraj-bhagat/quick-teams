@@ -1,0 +1,63 @@
+app/assets/tailwind/application.css
+  s_ce77e5395e43ad::t_ce260301c5e756 6
+test/components/previews/ui/layout_preview.rb
+  s_ce77e5395e43ad::t_0062030512db9f 46-53
+app/components/ui/job_card_component.rb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-33
+app/components/ui/page_header_component.rb
+  s_ce77e5395e43ad::t_359d41d5e6ee1c 10,17,19
+app/components/ui/time_slot_component.rb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-14
+app/components/ui/page_header_component.html.erb
+  s_ce77e5395e43ad::t_359d41d5e6ee1c 3
+app/components/ui/session_lane_component.rb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-17
+app/components/ui/color_choice_component.rb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-16
+test/components/ui/planner_components_test.rb
+  s_ce77e5395e43ad::t_0062030512db9f 1-45,48-81
+  s_ce77e5395e43ad::t_96b17ba39cc0d1 46-47
+test/components/previews/ui/layout_preview/status_banners.html.erb
+  s_ce77e5395e43ad::t_0062030512db9f 1-8
+app/helpers/planner_helper.rb
+  s_ce77e5395e43ad::t_359d41d5e6ee1c 5-6,11-12
+  s_ce77e5395e43ad::t_ce260301c5e756 1-4,7-10,13-14
+app/components/ui/card_component.rb
+  s_ce77e5395e43ad::t_ce260301c5e756 21
+  s_ce77e5395e43ad::t_36754e12b3a46a 17,19
+app/components/ui/job_card_component.html.erb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-5
+app/components/ui/toggle_modal_component.rb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-22
+app/components/ui/toggle_modal_component.html.erb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-9
+app/components/ui/segmented_links_component.html.erb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-3
+app/components/ui/segmented_links_component.rb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-35
+app/components/ui/color_choice_component.html.erb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-11
+app/components/ui/card_component.html.erb
+  s_ce77e5395e43ad::t_36754e12b3a46a 4
+  s_ce77e5395e43ad::t_ce260301c5e756 8
+test/components/previews/ui/layout_preview/planner.html.erb
+  s_ce77e5395e43ad::t_0062030512db9f 1-16
+app/components/ui/time_slot_component.html.erb
+  s_ce77e5395e43ad::t_ce260301c5e756 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "11d206e31937295296b38a9b928601028dfe0aed",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
