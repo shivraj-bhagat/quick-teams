@@ -1,0 +1,29 @@
+test/system/permissions/employee/spaces_test.rb
+  s_379bf6314ff9a8::t_067f32c2d93288 3
+  s_ce77e5395e43ad::t_849324415819a8 216-220,226-227
+  s_379bf6314ff9a8::t_6006347c57d6f4 265-269
+test/application_system_test_case.rb
+  s_379bf6314ff9a8::t_55b23021e20e0a 20-21,25-29
+  s_379bf6314ff9a8::t_53f3da13bff2fc 3-18
+  s_379bf6314ff9a8::t_0622dd300ecdb0 30,33,36
+  s_379bf6314ff9a8::t_205330a72cfba3 31-32,34-35
+  s_ce77e5395e43ad::t_5710215c882a35 22-24
+test/test_helper.rb
+  s_ce77e5395e43ad::t_86e9aa5fed5d20 3-6
+  s_379bf6314ff9a8::t_86c8bc850dc807 31-33
+  s_ce77e5395e43ad::t_5710215c882a35 2,12-25
+  s_379bf6314ff9a8::t_10ae2ec16899b9 9
+.github/workflows/rubyonrails.yml
+  s_ce77e5395e43ad::t_f811b14fe7a9dc 58-63
+  s_379bf6314ff9a8::t_c573c031fc31e2 4,6-7,9-20,25,29-32,35-38,40-43,46-49,64-70
+  s_379bf6314ff9a8::t_87b5937c2c05cb 50-54,57
+README.md
+  s_379bf6314ff9a8::t_65542d8d1d9cc8 1,3,5,7-12,14-15,19,22-24,37,39,46
+  s_ce77e5395e43ad::t_2b9896bc105c42 17,20-21,26-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "437506deb566363ab354645f7b1e7c69281380be",
+  "prompts": {}
+}
