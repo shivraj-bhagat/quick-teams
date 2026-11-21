@@ -1,0 +1,9 @@
+db/schema.rb
+  ai_agent 13,131-132,157-171,225-227,241,244,258,268-269,295-298,468-627,807,842,900,931-938,969
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "1d809953752a44c362b123d62b115d46b77f81c0",
+  "prompts": {}
+}
