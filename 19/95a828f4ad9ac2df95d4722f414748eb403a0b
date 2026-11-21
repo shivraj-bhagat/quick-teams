@@ -1,0 +1,406 @@
+test/system/employee/planner_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-159
+app/views/account/billing/_manage.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 5
+app/components/ui/checkbox_field_component.rb
+  s_ce77e5395e43ad::t_3d1db0878bbeaf 12,15
+app/views/project/notes/_note.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2,4,9,13,16,20
+app/views/projects/show.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2
+app/reflexes/account_notification_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-5
+app/views/shared/reports/_status.html.erb
+  s_ce77e5395e43ad::t_72557304be5d25 2,4-7
+  s_ce77e5395e43ad::t_e94c9200b517f7 1,3,8
+app/javascript/application.js
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-4,6,8-9,12-14
+app/views/survey/attempts/_score_question.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2,4-14,16-45,47-95
+app/views/mailers/todos_mailer/completed_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-11
+app/components/ui/status_banner_component.html.erb
+  s_ce77e5395e43ad::t_72557304be5d25 1-9
+app/reflexes/employee_status_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3,7-17
+app/controllers/employee/surveys_controller.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 26-27
+config/routes.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 72-75,84-86,205-207
+config/application.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 20-22
+config/importmap.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 6,10-11,23-26
+app/views/mailers/messages_mailer/message_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-14
+app/decorators/survey/survey_decorator.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 11-12,30
+app/views/user/_email_notification.html.erb
+  s_ce77e5395e43ad::t_72557304be5d25 2,4-5
+  s_ce77e5395e43ad::t_e94c9200b517f7 1,3,6-7
+app/views/mailers/goals_mailer/commented_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-9
+app/views/employee/timesheets/_stats.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-9,15,23,26-28,31,37-40,42-44,49-51,55-57
+app/components/ui/modal_component.html.erb
+  s_ce77e5395e43ad::t_3bb0b31022d964 6
+app/views/mailers/goals_mailer/completed_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-9
+app/javascript/controllers/dropdown_controller.js
+  s_ce77e5395e43ad::t_e94c9200b517f7 121-124
+app/views/planners/weekly.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-67
+app/views/mailers/weekly_activity_mailer/weekly_summary_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-6,8,10,12,14,16
+app/views/mailers/goals_mailer/missed_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-9
+app/views/project/clients/_client.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 8,10-15,17,26,30-32
+app/views/shared/comments/_comment.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 9,14,16-18,20
+app/controllers/job_cards_controller.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-72
+app/views/employee/feedbacks/_status.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1,6,11
+  s_ce77e5395e43ad::t_72557304be5d25 2-5,7-10
+app/models/survey/survey.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 6
+app/views/mailers/comment_mailer/comment_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-12
+app/views/mailers/employee_mailer/updated_manager_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-11
+app/views/mailers/feedbacks_mailer/publish_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-10
+app/reflexes/survey_participant_stats_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3,8-21,23-26,28-30,32-40
+app/views/planners/_create_job_card.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-160
+app/views/mailers/todos_mailer/added_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-10
+app/views/devise/mailer/invitation_instructions.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-12,14-16,18
+app/views/project/notes/edit.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 5-6
+app/views/shared/surveys/_summary.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-4
+app/views/employee/goals/_goal.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2,15-19,23-24
+app/views/mailers/employee_mailer/observer_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-9
+app/views/devise/mailer/password_change.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2
+app/views/home/goals.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 8-11,13-15,30-32
+README.md
+  s_ce77e5395e43ad::t_e94c9200b517f7 39-40
+test/fixtures/survey/surveys.yml
+  s_ce77e5395e43ad::t_e94c9200b517f7 10
+test/system/employee/todos_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 54-55,57-62,64-66
+test/system/project/todos_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 48-49,51-56,58-60
+test/models/job_card_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-88
+app/views/mailers/goals_mailer/created_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-9
+app/reflexes/project_status_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3,7-17
+app/models/preference.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 14
+app/views/shared/surveys/stats.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-5
+app/views/account/preferences/_email_notification.html.erb
+  s_ce77e5395e43ad::t_72557304be5d25 2,4-5
+  s_ce77e5395e43ad::t_e94c9200b517f7 1,3,6-7
+app/reflexes/employee_timesheets_stats_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3,7,11-18,20-21
+app/mailers/weekly_activity_mailer.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 4
+app/views/devise/mailer/confirmation_instructions.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2,4-7
+app/assets/stylesheets/slim.css
+  s_ce77e5395e43ad::t_f0f2bbac9d6bc9 1-540
+app/controllers/survey/base_controller.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 8,10-12,20-29,35
+app/views/tickets/show_buttons/_user.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3,5
+db/migrate/20260115121620_create_job_cards.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-18
+.github/workflows/rubyonrails.yml
+  s_ce77e5395e43ad::t_e94c9200b517f7 50
+app/reflexes/project_tags_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-4,8-22
+app/javascript/stimulus-scroll-to.js
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-41
+app/views/project/feedbacks/_feedback.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-2,7-9,14-18,25
+app/reflexes/survey_stats_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3,8-17,19-20,22-24,26-34
+app/views/mailers/employee_mailer/relieved_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-11
+db/migrate/20251206114129_create_solid_jobs_tables.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-131
+docs/upgrade-plan.md
+  s_ce77e5395e43ad::t_e94c9200b517f7 5-8,324-326,333-409
+app/views/mailers/employee_mailer/role_changed_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2
+app/views/planners/daily.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-85
+app/reflexes/project_observers_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-10,14-43
+app/views/project/milestones/_milestone.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-2,15-19,27-30
+config/database.yml
+  s_ce77e5395e43ad::t_e94c9200b517f7 26-27,29-30
+app/controllers/employee/feedbacks_controller.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 68
+app/views/employee/culture/index.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-63
+app/views/employee/reports/_template.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 7-9
+app/views/project/timesheets/_stats.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 4-10,16,24,26-28,30,36-39,41-43,48-50,54-56
+.vscode/settings.json
+  s_ce77e5395e43ad::t_e94c9200b517f7 8
+app/views/survey/pdf/_pdf_score.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 9-19,22-32,35-45
+db/migrate/20260116114754_add_color_to_job_cards.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-5
+app/views/account/billing/_renew.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-7
+db/migrate/20261119090606_add_batches_to_solid_queue.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-39
+app/views/employee/feedbacks/_feedback.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-14,16-21,24,27-32,37,43-46,51
+db/migrate/20251212120000_add_output_to_timesheet.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-5
+app/reflexes/attempt_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 6-7,9,14-15,17,20-21,26-32
+app/views/shared/surveys/_survey.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-5
+test/controllers/planners_controller_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-95
+test/system/employee/kpis_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 20
+app/models/space.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 12
+app/controllers/survey/assignees_controller.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 9-11,18-19,21,37-38
+app/views/account/preferences/_preference.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1,3-4,6
+app/views/devise/mailer/reset_password_instructions.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-11,13-17
+app/views/mailers/tickets_mailer/deliver_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-6
+app/views/mailers/todos_mailer/opened_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-9
+app/views/shared/todos/_status.html.erb
+  s_ce77e5395e43ad::t_72557304be5d25 4-7,9-12
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-3,8,13
+app/views/project/documents/_document.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 7,12-16,23
+test/controllers/reflex_actions_controller_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 37,42-50
+test/system/general/surveys_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 48
+app/components/ui/status_banner_component.rb
+  s_ce77e5395e43ad::t_72557304be5d25 1-44
+app/views/spaces/_space.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2,4-11,14-22,24-27,32-39
+app/components/ui/alert_component.rb
+  s_ce77e5395e43ad::t_ad05b29f88d36c 4,12
+app/views/mailers/employee_mailer/manager_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-11
+app/components/ui/checkbox_field_component.html.erb
+  s_ce77e5395e43ad::t_3d1db0878bbeaf 4-7
+app/interactors/archive_project.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 16
+app/views/survey/attempts/index.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 9-10
+app/views/layouts/action_text/contents/_content.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1
+app/reflexes/employee_feedback_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-5,9-28,32
+db/migrate/20251206113912_create_cable_database.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-13
+config/environments/production.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 26-28
+app/assets/tailwind/application.css
+  s_ce77e5395e43ad::t_f0f2bbac9d6bc9 283-286
+app/views/devise/mailer/unlock_instructions.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-7,9-12
+app/views/project/about/index.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 7-12,18-24,33-36,44,47-48
+app/policies/planner_policy.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-13
+app/views/home/_upcoming_goal.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 4-7,9-11
+db/migrate/20240610121000_add_feedback_type_and_is_kpi_to_feedbacks.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-6
+app/policies/job_card_policy.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-25
+app/javascript/controllers/index.js
+  s_ce77e5395e43ad::t_e94c9200b517f7 1,4-8,14,16-17,19,21-32
+app/reflexes/employee_tags_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-4,8-20,22
+app/views/mailers/goals_mailer/discarded_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-11
+app/views/survey/attempts/_question.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-23
+test/system/permissions/employee/performance_reports_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 21
+app/javascript/controllers/weekly_planner_controller.js
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-116
+app/models/job_card.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-82
+app/views/mailers/schedules_mailer/updated_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-9
+app/models/feedback.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 9-12
+app/reflexes/employee_notification_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-5
+app/reflexes/report_submit_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-20
+app/views/survey/pdf/_pdf_checklist.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 4,6-9,12-22,25-35
+app/views/employee/team/_manager.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1,7,10-14,16-18,26-28
+app/policies/user/culture_policy.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-19
+test/controllers/job_cards_controller_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-200
+app/views/mailers/employee_mailer/observer_removed_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-9
+app/reflexes/employee_skills_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-9,13-18,22-42
+app/views/employee/about/_inline_edit.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-6,17-18
+app/views/layouts/mailer.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2,5-6,11-12
+app/views/survey/_title.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-4,9-20,22,27,31,35-36,39
+db/migrate/20251210095741_add_culture_kpi_to_users.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-6
+app/views/layouts/pdf.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2,6-12,14-15
+app/models/user.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 24,28
+app/javascript/controllers/daily_planner_controller.js
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-178
+app/reflexes/project_timesheets_stats_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-6,8-9,13,17-24,26-31
+app/models/survey/stats/employee_kpi_stats.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 13
+app/views/mailers/spaces_mailer/space_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-13
+test/system/general/performance_report_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 36,43-44
+app/views/employee/about/edit.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2
+app/controllers/project/timesheets_controller.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 51
+app/views/templates/show.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-5,7,18,22,26,29-31,33-38
+app/views/survey/attempts/_checklist_question.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2,4-23
+app/views/mailers/comments_mailer/commented_ticket.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-9
+app/views/project/about/edit.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3
+test/system/general/tickets_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 64
+app/controllers/reflex_actions_controller.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 14,20,25
+app/views/devise/mailer/email_changed.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2,4-6,8-10
+app/controllers/employee/culture_controller.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-25
+app/views/employee/about/index.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 25,27-28
+app/views/project/timesheets/_timesheet.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-6,10-17,19,21-24,26
+app/views/survey/pdf/pdf.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2,4,6,8,10-13,17-24,27-29,31-32,36,43,52,55-59
+app/views/mailers/schedules_mailer/relieved_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-11
+app/reflexes/todo_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-5,8,10-11,14-17,21-30,33-34
+app/views/devise/shared/_links.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-3,7-8,12-13,17-18,22-23,28-29
+app/interactors/sign_up.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 85-86
+app/reflexes/project_skills_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-9,13-25,27-28
+app/views/mailers/messages_mailer/update_message_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-14
+app/reflexes/employee_kpi_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-9,13,17,23-53
+app/views/report/todos/_todo.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 4-10,13,15-18,20-21,25,27-30
+app/views/planners/_view_job_card.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-49
+config/initializers/tailwind_form_builder.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-4,16-17,28-29,40-41
+app/views/tickets/show_buttons/_assignee.html.erb
+  s_ce77e5395e43ad::t_1914fdb5e00f9a 2-8,12-20,22,26-47,49-75
+app/views/mailers/comments_mailer/commented_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-9
+test/system/survey/questions_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 51-53,64-66
+app/components/ui/alert_component.html.erb
+  s_ce77e5395e43ad::t_ad05b29f88d36c 7
+app/controllers/planners_controller.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-24
+app/policies/user_policy.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 17-20
+app/views/employee/timesheets/_timesheet.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 4-7,14-21,23,25-28,30
+app/views/report/activities/_activity.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1
+app/views/shared/_form_messages.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 4
+app/views/templates/_assignee.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-3,6-8,10-19,23
+app/views/message_comments/edit.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-3,12,18-21,23-27
+app/javascript/slim-select.js
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-1324
+app/views/mailers/spaces_mailer/unarchived_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-12
+app/views/shared/navbar/_mobile_links.html.erb
+  s_ce77e5395e43ad::t_d416d2c88f922a 10,14,21
+bin/render-build.sh
+  s_ce77e5395e43ad::t_e94c9200b517f7 6-13
+app/reflexes/invite_employee_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 5
+test/system/permissions/employee/kpis_test.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 27,30,37,40,48,51,58,61,69,72,79,82,90,93,101,104,111,114,122,125,133
+app/reflexes/ticket_status_reflex.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 3-21
+app/views/shared/surveys/_culture_stats.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 1-49
+app/controllers/employee/timesheets_controller.rb
+  s_ce77e5395e43ad::t_e94c9200b517f7 71
+app/javascript/channels/index.js
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-4
+app/views/mailers/spaces_mailer/archived_email.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-12
+app/views/report/timesheets/_timesheet.html.erb
+  s_ce77e5395e43ad::t_e94c9200b517f7 2-6,10-14,18-19,22,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "1995a828f4ad9ac2df95d4722f414748eb403a0b",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
