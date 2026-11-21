@@ -1,0 +1,62 @@
+app/components/ui/text_component.rb
+  s_ce77e5395e43ad::t_b17454207d0f91 1-30
+app/components/ui/text_link_component.rb
+  s_ce77e5395e43ad::t_b17454207d0f91 4,13
+test/components/previews/ui/layout_preview/text.html.erb
+  s_ce77e5395e43ad::t_c418dd8cfcae02 1-2
+app/components/ui/section_heading_component.rb
+  s_ce77e5395e43ad::t_b17454207d0f91 10,14
+app/components/ui/checkbox_field_component.rb
+  s_ce77e5395e43ad::t_7dcd735cf3061a 10
+app/components/ui/search_result_component.rb
+  s_ce77e5395e43ad::t_b17454207d0f91 1-22
+app/components/ui/table_component.html.erb
+  s_ce77e5395e43ad::t_dadd04fb055f8b 2-8
+test/components/previews/ui/layout_preview.rb
+  s_ce77e5395e43ad::t_c418dd8cfcae02 19-45
+app/components/ui/section_heading_component.html.erb
+  s_ce77e5395e43ad::t_b17454207d0f91 1,9
+test/components/previews/ui/layout_preview/search_results.html.erb
+  s_ce77e5395e43ad::t_c418dd8cfcae02 1-5
+app/components/ui/search_divider_component.rb
+  s_ce77e5395e43ad::t_b17454207d0f91 1-21
+app/components/ui/button_group_component.rb
+  s_ce77e5395e43ad::t_707b6165510d45 1-3,5-13,15,17-21,23-26
+  s_ce77e5395e43ad::t_72c4655ca1dba8 4,14,16,22
+app/components/ui/link_list_component.html.erb
+  s_ce77e5395e43ad::t_b17454207d0f91 1-4
+app/components/ui/split_submit_button_component.html.erb
+  s_ce77e5395e43ad::t_707b6165510d45 1-16
+app/components/ui/link_list_component.rb
+  s_ce77e5395e43ad::t_b17454207d0f91 1-31
+app/components/ui/button_group_component.html.erb
+  s_ce77e5395e43ad::t_707b6165510d45 1,3
+  s_ce77e5395e43ad::t_72c4655ca1dba8 2
+app/components/ui/radio_group_component.rb
+  s_ce77e5395e43ad::t_707b6165510d45 1-19
+app/components/ui/split_submit_button_component.rb
+  s_ce77e5395e43ad::t_707b6165510d45 1-26
+app/assets/tailwind/application.css
+  s_ce77e5395e43ad::t_7dcd735cf3061a 283-286
+  s_ce77e5395e43ad::t_0897c8c7a90d73 287-290
+test/components/ui/remaining_components_test.rb
+  s_ce77e5395e43ad::t_c418dd8cfcae02 1-65
+app/components/ui/radio_group_component.html.erb
+  s_ce77e5395e43ad::t_707b6165510d45 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "2e1ea4c60bf4053162e586421757c6eca51fa27b",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
