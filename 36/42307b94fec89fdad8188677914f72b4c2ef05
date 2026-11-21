@@ -1,0 +1,38 @@
+app/javascript/controllers/auto_dismiss_controller.js
+  s_da2d927624a5b5::t_09d4d5f2d1ffb4 4-5,12-13
+docs/ui-audit/design-system.md
+  s_da2d927624a5b5::t_f49d9851f90d33 64,82
+app/views/layouts/application.html.erb
+  s_da2d927624a5b5::t_f4f98b53b3dda2 33-36
+test/components/ui/flash_component_test.rb
+  s_da2d927624a5b5::t_753c69876a59fc 4,6-8,11-17,19-21
+test/components/ui/toast_region_component_test.rb
+  s_da2d927624a5b5::t_eb00ddc477f00e 1-13
+app/views/devise/shared/_success_message.html.erb
+  s_da2d927624a5b5::t_f0b964e551c9d1 2
+app/components/ui/flash_component.rb
+  s_da2d927624a5b5::t_469b2a94f7d05d 4-6,8-9,11-12,14-15,25-28,30-49
+app/components/ui/toast_region_component.rb
+  s_da2d927624a5b5::t_cc5968efb16185 1-19
+app/assets/tailwind/application.css
+  s_da2d927624a5b5::t_3983d75698bb3b 177-178,180
+  s_da2d927624a5b5::t_3ac051216be907 389-405
+docs/ui-audit/components.md
+  s_da2d927624a5b5::t_f49d9851f90d33 102-103,700-701
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "3642307b94fec89fdad8188677914f72b4c2ef05",
+  "prompts": {},
+  "sessions": {
+    "s_da2d927624a5b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8244bf8a-0a54-4b67-a215-1f86a83bfe2a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
