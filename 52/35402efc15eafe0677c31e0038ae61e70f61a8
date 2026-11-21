@@ -1,0 +1,30 @@
+app/views/planners/daily.html.erb
+  s_ce77e5395e43ad::t_a64519a1e34f1b 6-18,20-22,27,29-33,35,38,42
+app/views/planners/_create_job_card.html.erb
+  s_ce77e5395e43ad::t_a64519a1e34f1b 1-39
+app/views/employee/culture/index.html.erb
+  s_ce77e5395e43ad::t_d47d827797ab21 32
+  s_ce77e5395e43ad::t_6f435b2cbb0897 1,3-10,12-31,33-39
+app/views/shared/surveys/_culture_stats.html.erb
+  s_ce77e5395e43ad::t_d47d827797ab21 7-12,14-15,18
+app/views/planners/_view_job_card.html.erb
+  s_ce77e5395e43ad::t_a64519a1e34f1b 1-21,23-25,27-30
+app/views/planners/weekly.html.erb
+  s_ce77e5395e43ad::t_a64519a1e34f1b 2-14,16,18-19,21,24-25,27-29,32,35,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5235402efc15eafe0677c31e0038ae61e70f61a8",
+  "prompts": {},
+  "sessions": {
+    "s_ce77e5395e43ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c74970de-05e3-4a42-85c4-03c109119492",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
