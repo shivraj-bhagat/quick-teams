@@ -1,0 +1,19 @@
+README.md
+  s_dc2755ea62692f::t_a7311e454a937e 3-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "9594571b5923f357ec4783be3959e68de6065e01",
+  "prompts": {},
+  "sessions": {
+    "s_dc2755ea62692f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "be2d64c9-37f0-4df4-8e6a-da91d33b26eb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
