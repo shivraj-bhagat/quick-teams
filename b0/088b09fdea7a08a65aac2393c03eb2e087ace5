@@ -1,0 +1,19 @@
+README.md
+  s_dc2755ea62692f::t_9dce8a69c68e1e 1,3-4,6,8-19,21,23-27,29-32,34-38,40-43,45-47,49-52,54-177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "b0088b09fdea7a08a65aac2393c03eb2e087ace5",
+  "prompts": {},
+  "sessions": {
+    "s_dc2755ea62692f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "be2d64c9-37f0-4df4-8e6a-da91d33b26eb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Shivraj Bhagat <shivraj.bhagat@crownstack.com>"
+    }
+  }
+}
